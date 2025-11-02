@@ -6,4 +6,4 @@ integrante 3:
 integrante 4:
 integrante 5:
 tecnologias utilizadas: …
-tipo de licença: uso livre ou privado”# Atividade-de-extens-o-dev-git
+tipo de licença: uso livre ou privado”# Atividade-de-extens-o-dev-git"
